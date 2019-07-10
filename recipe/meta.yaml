@@ -1,5 +1,5 @@
 {% set name = "tikzplotlib" %}
-{% set version = "0.8.0" %}
+{% set version = "0.8.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 0ff9a0f79c80749873c4f54018c61726fb4d4aff656c2904205fc04f7d65516d
+  sha256: 2d96f747d9bb5f02f1f2a93d7fdda42b01cc99d857d96c4c799afaea308933e7
 
 build:
   noarch: python
