@@ -27,18 +27,6 @@ requirements:
 test:
   imports:
     - tikzplotlib
-    - tikzplotlib.axes
-    - tikzplotlib.color
-    - tikzplotlib.files
-    - tikzplotlib.image
-    - tikzplotlib.legend
-    - tikzplotlib.line2d
-    - tikzplotlib.patch
-    - tikzplotlib.path
-    - tikzplotlib.quadmesh
-    - tikzplotlib.save
-    - tikzplotlib.text
-    - tikzplotlib.util
 
 about:
   home: https://github.com/nschloe/tikzplotlib
