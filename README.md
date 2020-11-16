@@ -5,11 +5,11 @@ Home: https://github.com/nschloe/tikzplotlib
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tikzplotlib-feedstock/blob/master/LICENSE.txt)
 
 Summary: Convert matplotlib figures into TikZ/PGFPlots
 
-
+Development: https://github.com/nschloe/tikzplotlib
 
 Current build status
 ====================
